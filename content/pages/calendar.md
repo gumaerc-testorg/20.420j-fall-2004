@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 435eeef6-3d11-80df-ddd6-c6b963c6fc95
 ---
@@ -35,7 +37,7 @@ Bonding Forces (HB, VdW, Elec, HE)
   
 Solvation and the Role of Water  
   
-Standard States, Free Energy, Kd  
+Standard States, Free Energy, K{{< sub "d" >}}  
   
 Typical Ranges of Affinity, On and Off Rates  
   
@@ -59,7 +61,7 @@ _Protein-Ligand Binding Equilibria
 _  
 Monovalent Reversible Equilibria  
   
-Analytic and Pseudo - 1st Order Approx Isotherms  
+Analytic and Pseudo - 1{{< sup "st" >}} Order Approx Isotherms  
   
 Immobilized Protein/Ligand Interactions  
   
@@ -203,7 +205,7 @@ Confidence Intervals on Fit Parameters
 {{< tdopen >}}
 _Biomolecular Interaction Kinetics  
 _  
-Analytical and Pseudo 1st - Order Solutions  
+Analytical and Pseudo 1{{< sup "st" >}} - Order Solutions  
   
 Relaxation (Perturbation, Temperature Jump)  
   
