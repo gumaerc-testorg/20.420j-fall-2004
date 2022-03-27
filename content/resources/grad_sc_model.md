@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 41e270d2-9d96-f028-11f1-5f535722d07b
 resourcetype: Document
 title: Grading Scale for Model Implementations
 uid: 93612199-fc0b-fe2e-29ff-e1b4f0d3e3a5

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bf2dbe84-d848-748f-0c59-02b7914c582a
 resourcetype: Document
 title: Guidelines for Model Implementation Assignments
 uid: 37fde991-1a73-3e25-06e9-d50dd43ee7ac
