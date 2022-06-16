@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, textbooks, assignments, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -47,7 +49,7 @@ Assignments
 
 There will be a total of twelve assignments. Initial homework assignments will focus on mathematical modeling and concepts covered in class, including some work in MATLAB®. Later assignments will consist of more involved work in MATLAB®, implementing models described in assigned papers from the literature.
 
-Grading Scale for Model Implementations ([PDF]({{< baseurl >}}/resources/grad_sc_model))
+Grading Scale for Model Implementations ({{% resource_link 93612199-fc0b-fe2e-29ff-e1b4f0d3e3a5 "PDF" %}})
 
 Literature Paper Presentations and Discussion
 ---------------------------------------------

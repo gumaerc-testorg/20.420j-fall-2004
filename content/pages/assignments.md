@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides guidelines on the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,4 +26,4 @@ Guidelines
     (Note that you can name your function m-files however you like)
 3.  Homework should be typed (model derivations, formulas, etc. may be written in).
 
-Guidelines for Model Implementation Assignments ([PDF]({{< baseurl >}}/resources/model_imp_assig))
+Guidelines for Model Implementation Assignments ({{% resource_link 37fde991-1a73-3e25-06e9-d50dd43ee7ac "PDF" %}})
