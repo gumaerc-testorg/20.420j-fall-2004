@@ -4,6 +4,7 @@ description: Guidelines and grading information for model implementation assignm
 file: /courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/93612199fc0bfe2e29ffe1b4f0d3e3a5_grad_sc_model.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Grading Scale for Model Implementations
 uid: 93612199-fc0b-fe2e-29ff-e1b4f0d3e3a5
 ---
 Guidelines and grading information for model implementation assignments.
-

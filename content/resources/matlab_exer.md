@@ -5,6 +5,7 @@ file: /courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Matlab familiarization exercises
 uid: ff7e6fb0-d1e2-7691-e99a-93afdb981020
 ---
 Computer study exercises.
-

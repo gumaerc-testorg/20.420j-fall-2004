@@ -7,6 +7,7 @@ file: /courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Guidelines for Model Implementation Assignments
 uid: 37fde991-1a73-3e25-06e9-d50dd43ee7ac
 ---
 Guidelines and instructions for an assignment to implement numerical simulations of simple kinetic models and examine biomolecular kinetic phenomena by computational experimentation.
-
