@@ -10,7 +10,7 @@ title: Tools
 uid: dd23d586-c967-38f6-7740-b19871519d67
 ---
 
-Many of the homework assignments will involve implementing mathematical models in [MATLAB®](http://www.mathworks.com/products/matlab/), a technical computing language and environment for data analysis, computation, and visualization.
+Many of the homework assignments will involve implementing mathematical models in {{% resource_link "96974608-5fd0-4ca3-90e8-788e7aecface" "MATLAB®" %}}, a technical computing language and environment for data analysis, computation, and visualization.
 
 A MATLAB® tutorial should familiarize you with the methods necessary for completing class assignments. ({{% resource_link 11b5ff0b-efc8-7fd2-5f59-e3df0ec4e6f8 "PDF" %}}) Courtesy of Nathan C. Tedford.  Used with permission.
 
