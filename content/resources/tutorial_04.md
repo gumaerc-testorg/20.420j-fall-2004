@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial on Matlab.
-file: /courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/11b5ff0befc87fd25f59e3df0ec4e6f8_tutorial_04.pdf
+file: /ol-ocw-studio-app/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/11b5ff0befc87fd25f59e3df0ec4e6f8_tutorial_04.pdf
 file_size: 80525
 file_type: application/pdf
 learning_resource_types:
